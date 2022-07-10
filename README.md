@@ -41,9 +41,9 @@ Change a default.json file in config folder with the following
 
 ```javascript
 {
-  "mongoURI": "<Crediential from mongodb atlas>",
+  "mongoURI": "Crediential from mongodb atlas",
   "jwtSecret": "secret",
-  "githubToken": "<secret token from github>"
+  "githubToken": "secret token from github"
 }
 ```
 
