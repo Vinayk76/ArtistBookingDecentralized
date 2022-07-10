@@ -5,7 +5,6 @@ Let's Rewind the Centralization
 
 Artist Booking Decentralized application will help artist and who seek help from artist
 
-## Quick Start Artist Booking Dapp 🧑‍🎨🎨
 
 
 ## API Reference
@@ -34,6 +33,7 @@ Artist Booking Decentralized application will help artist and who seek help from
 
 Takes two numbers and returns the sum.
 
+## Quick Start Artist Booking Dapp 🧑‍🎨🎨
 
 ## Run Locally
 
