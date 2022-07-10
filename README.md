@@ -5,6 +5,13 @@ Let's Rewind the Centralization
 
 Artist Booking Decentralized application will help artist to get listed and user can book them using crypto currency.
 
+# Project Description 
+* Backend APIs with help of [Node.js](https://nodejs.org/en/) & [Express](https://expressjs.com/)
+* Protecting routes End Points from un-authorized access using [JWT](https://jwt.io/)
+* Interation with Cloud Database using [Mongo DB](https://www.mongodb.com/cloud/atlas)
+* Created Models using Mongoose [Mongoose](https://mongoosejs.com/)
+* Created UI Using React [React](https://reactjs.org/)
+* Redux used for state management [Redux](https://redux.js.org/)
 
 
 ## API Reference
