@@ -173,22 +173,6 @@ What did you learn while building this project? What challenges did you face and
 - Cross platform
 
 
-# Hi, I'm Vinay! 👋
-
-
-## 🛠 Skills
-Java, Spring, JavaScript, React, Node.js
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at vinay91098@gmail.com
-
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -212,6 +196,23 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
+
+
+
+# Hi, I'm Vinay! 👋
+
+
+## 🛠 Skills
+Java, Spring, JavaScript, React, Node.js, AWS
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at vinay91098@gmail.com
 
 
 ## Authors
