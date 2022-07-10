@@ -3,7 +3,7 @@
 
 Let's Rewind the Centralization 
 
-Artist Booking Decentralized application will help artist and who seek help from artist
+Artist Booking Decentralized application will help artist to get listed and user can book them using crypto currency.
 
 
 
