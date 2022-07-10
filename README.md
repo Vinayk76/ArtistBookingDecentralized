@@ -42,7 +42,7 @@ Change a default.json file in config folder with the following
 ```javascript
 {
   "mongoURI": "Crediential from mongodb atlas",
-  "jwtSecret": "secret",
+  "jwtSecret": "artistdapp",
   "githubToken": "secret token from github"
 }
 ```
